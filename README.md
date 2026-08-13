@@ -2,13 +2,14 @@
 
 [![Notion](https://img.shields.io/badge/노션_포트폴리오_바로가기-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3038942a9aa6801bacfceb925ec3a85a?source=copy_link)
 
-- 🎓 상명대학교에서 게임소프트웨어개발을 전공하고 있습니다.
-- 🎮 Unreal Engine 5와 Unity를 활용한 게임 플레이 로직 및 시스템 구현에 강점이 있습니다.
-- 🧩 알고리즘 문제 해결(Baekjoon, Programers)과 최적화된 코드 작성에 꾸준히 도전하고 있습니다.
+- ⚙️ Unreal Engine 5와 C++을 주력으로 사용하며, 확장성 있고 효율적인 게임 시스템 구조 설계를 지향합니다.
+- 🌐 Unity, Vanilla JS, Linux 등 특정 플랫폼에 얽매이지 않고 다양한 환경에서 게임 코어 로직을 구현한 경험이 있습니다.
+- 🎨 Aseprite 2D 픽셀 아트, Blender 에셋 커스텀 등 아트 워크플로우에 전반적인 이해도를 갖추고 있습니다.
+- 🧩 탄탄한 게임 시스템 설계를 위해 백준(Baekjoon)과 프로그래머스(Programmers)를 활용해 꾸준히 알고리즘 및 코딩 테스트 문제를 해결하며 코드 최적화 역량을 키우고 있습니다.
 
 <br>
 
-## 🛠 Tech Stack
+## 🛠 Skills
 
 **Languages**
 <br>
@@ -20,20 +21,26 @@
 <br>
 <img src="https://img.shields.io/badge/unreal_engine_5-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/JetBrains%20Rider-%23900000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" />
 <img src="https://img.shields.io/badge/aseprite-%23FFFFFF.svg?style=for-the-badge&logo=aseprite&logoColor=#7D929E" />
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/github_desktop-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/rider-%23000000.svg?style=for-the-badge&logo=rider&logoColor=white" />
 
 <br>
 
-## 📊 Stats & Algorithms
+## 🧩 Algorithm & Coding Test
+<br>
 
 <div align="center">
   
-  <!-- 백준 티어 뱃지 -->
+  <!-- 백준 티어 뱃지 (카드형) -->
   <a href="https://solved.ac/you3957987">
-    <img height="170" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=you3957987" />
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=you3957987" />
+  </a>
+  
+  <br><!-- 줄바꿈 및 여백 -->
+  
+   <a href="https://programmers.co.kr/users/profile">
+    <img height="40" src="https://img.shields.io/badge/Programmers-Lv.3_Average-CCCCCC?style=for-the-badge&labelColor=FFFFFF&logoColor=black" alt="Programmers Badge" />
   </a>
   
 </div>
@@ -41,4 +48,4 @@
 <br>
 
 ## 📬 Contact
-- **Email:** [yujun3957987@gmail.com]
+- Email : yujun3957987@gmail.com
