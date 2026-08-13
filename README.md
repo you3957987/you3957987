@@ -6,7 +6,6 @@
 - 🌐 Unity, Vanilla JS, Linux 등 특정 플랫폼에 얽매이지 않고 다양한 환경에서 게임 코어 로직을 구현한 경험이 있습니다.
 - 🎨 Aseprite 2D 픽셀 아트, Blender 에셋 커스텀 등 아트 워크플로우에 전반적인 이해도를 갖추고 있습니다.
 - 🧩 탄탄한 게임 시스템 설계를 위해 백준(Baekjoon)과 프로그래머스(Programmers)를 활용해 꾸준히 알고리즘 및 코딩 테스트 문제를 해결하며 코드 최적화 역량을 키우고 있습니다.
-
 <br>
 
 ## 🛠 Skills
@@ -16,7 +15,7 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />
-
+<br><br>
 **Game Engines & Tools**
 <br>
 <img src="https://img.shields.io/badge/unreal_engine_5-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
