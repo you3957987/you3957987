@@ -31,12 +31,9 @@
 
 <div align="center">
   
-  <!-- 깃허브 스탯 카드 -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=you3957987&show_icons=true&theme=dark" />
-  
-  <!-- 백준 티어 뱃지 (본인 백준 아이디로 변경 필요) -->
-  <a href="https://solved.ac/[본인_백준_아이디]">
-    <img height="170" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=[you3957987]" />
+  <!-- 백준 티어 뱃지 -->
+  <a href="https://solved.ac/you3957987">
+    <img height="170" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=you3957987" />
   </a>
   
 </div>
@@ -44,5 +41,4 @@
 <br>
 
 ## 📬 Contact
-- **Email:** [본인 이메일 주소]
-- **GitHub:** [@you3957987](https://github.com/you3957987)
+- **Email:** [yujun3957987@gmail.com]
