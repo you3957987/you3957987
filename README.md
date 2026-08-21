@@ -2,13 +2,13 @@
 
 [![Notion](https://img.shields.io/badge/노션_포트폴리오_바로가기-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3038942a9aa6801bacfceb925ec3a85a?source=copy_link)
 
-- ⚙️ Unreal Engine 5와 C++을 주력으로 사용하며 확장성 있고 효율적인 게임 시스템 구조 설계를 지향합니다.
+- ⚙️ Unreal Engine 5와 C++을 주력으로 사용하며 플러그인 및 모듈화 기반의 확장성 있는 시스템 설계를 지향합니다.
 
-- 🌐 Unity, Vanilla JS, Linux 등 특정 플랫폼에 얽매이지 않고 다양한 환경에서 게임 코어 로직을 구현한 경험이 있습니다.
+- 🌐 Unity, Web(Vanilla JS), Linux 등 다양한 플랫폼 환경에서 게임 코어 로직울 구현한 경험이 있습니다.
 
-- 🎨 Aseprite 2D 픽셀 아트, Blender 에셋 커스텀 등 아트 워크플로우에 전반적인 이해도를 갖추고 있습니다.
+- 🎨 Aseprite(2D 픽셀 아트), Blender(에셋 커스텀), 트레일러 영상 편집 등을 직접 경험하며 아트 워크플로우에 대한 전반적인 이해도를 갖추고 있습니다.
 
-- 🧩 탄탄한 게임 시스템 설계를 위해 백준(Baekjoon)과 프로그래머스(Programmers)를 활용해 꾸준히 알고리즘 및 코딩 테스트 문제를 해결하며 프로그래밍 역량을 키우고 있습니다.
+- 🧩 Solved.ac 플래티넘 V 달성 및 Programmers Lv.3 문제 풀이를 통해 꾸준히 알고리즘 문제 해결 능력을 기르고 있습니다.
 
 <br>
 
