@@ -30,7 +30,7 @@
 
 <br>
 
-## 🧩 Algorithm & Coding Test
+## 🧩 BOJ & Programmers
 <br>
 
 <div align="center">
