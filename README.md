@@ -2,7 +2,7 @@
 
 [![Notion](https://img.shields.io/badge/노션_포트폴리오_바로가기-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3038942a9aa6801bacfceb925ec3a85a?source=copy_link)
 
-- ⚙️ Unreal Engine 5와 C++을 주력으로 사용하며, 확장성 있고 효율적인 게임 시스템 구조 설계를 지향합니다.
+- ⚙️ Unreal Engine 5와 C++을 주력으로 사용하며 확장성 있고 효율적인 게임 시스템 구조 설계를 지향합니다.
 
 - 🌐 Unity, Vanilla JS, Linux 등 특정 플랫폼에 얽매이지 않고 다양한 환경에서 게임 코어 로직을 구현한 경험이 있습니다.
 
